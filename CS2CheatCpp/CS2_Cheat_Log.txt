@@ -1,0 +1,6 @@
+After running this software, please make sure to read the software usage instructions!
+If you are stuck in the use of the software, please update the latest offsets value which located sdk folder or submit an issue on Github!
+Support me? You can scan the WeiChat pay QR code or concat me yl1099129793. Thank you for your support!
+
+[2024/05/08 21:20:56] cs2.exe's process id located at 7552
+[2024/05/08 21:20:56] client.dll -> 0x7ffe8b5d0000
